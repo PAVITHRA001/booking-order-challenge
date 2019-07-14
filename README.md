@@ -7,7 +7,7 @@
 
 ### Steps to run:
 ```
-node BookingOrderingPlatform.js.js 
+node BookingOrderingPlatform.js
 ```
 
 Output will be written to `output.json` file.
