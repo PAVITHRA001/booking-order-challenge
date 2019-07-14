@@ -4,7 +4,7 @@
 
 ### Challenge 4: Booking Ordering Problem
 
-https://github.com/itatsmove/smovechallenge/blob/master/challenges/bookingordering.md
+Problem statement: https://github.com/itatsmove/smovechallenge/blob/master/challenges/bookingordering.md
 
 
 ### Steps to run:
